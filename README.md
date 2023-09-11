@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @is-Joe
 - 👀 I’m interested in Iot platform，Baskteball，Science fiction movies，Political TV series...
-- 🌱 I’m currently learning element-ui source and Vue2.0 source
+- 🌱 I’m currently learning Vue3.0 and Typescript
 - 💞️ I’m looking to collaborate on IoT platform
 
 
